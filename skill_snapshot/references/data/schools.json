@@ -1,0 +1,1223 @@
+[
+  {
+    "id": "buaa-am",
+    "name": "北京航空航天大学",
+    "unit": "大型金属构件增材制造国家工程实验室",
+    "city": "北京",
+    "region": "北京",
+    "tracks": [
+      "process"
+    ],
+    "directions": [
+      "激光增材制造",
+      "大型金属构件",
+      "钛合金",
+      "超高强钢"
+    ],
+    "math_hint": "以材料科学与工程当年目录为准",
+    "exam_note": "常见数学二 + 材料科学基础；务必查当年招生目录",
+    "difficulty": 5,
+    "why": "大型金属构件激光增材制造的国家队，型号任务多，工程博士路径强",
+    "source": "https://www.buaa.edu.cn/info/1300/6069.htm",
+    "last_verified": "2026-10-20",
+    "official_url": "https://www.buaa.edu.cn/",
+    "grad_url": "https://yzb.buaa.edu.cn/",
+    "strength": 5
+  },
+  {
+    "id": "nwpu-solidification",
+    "name": "西北工业大学",
+    "unit": "凝固技术全国重点实验室",
+    "city": "西安",
+    "region": "西安",
+    "tracks": [
+      "process",
+      "hybrid"
+    ],
+    "directions": [
+      "激光增材制造",
+      "凝固理论",
+      "单晶生长",
+      "航空航天材料"
+    ],
+    "math_hint": "以材料科学与工程当年目录为准",
+    "exam_note": "常见数学二 + 材料科学基础；务必查当年招生目录",
+    "difficulty": 5,
+    "why": "4 位院士、152 名固定人员；从激光快速凝固发展到金属增材制造",
+    "source": "https://sklsp.nwpu.edu.cn/sysgk/sysjj.htm",
+    "last_verified": "2026-10-20",
+    "official_url": "https://www.nwpu.edu.cn/",
+    "grad_url": "https://yzb.nwpu.edu.cn/",
+    "strength": 5
+  },
+  {
+    "id": "hust-matproc",
+    "name": "华中科技大学",
+    "unit": "材料成形与模具技术全国重点实验室",
+    "city": "武汉",
+    "region": "华中",
+    "tracks": [
+      "process",
+      "hybrid"
+    ],
+    "directions": [
+      "增材制造",
+      "材料成形",
+      "模具",
+      "陶瓷增材",
+      "碳化硅增材"
+    ],
+    "math_hint": "以材料科学与工程当年目录为准",
+    "exam_note": "常见数学二 + 材料科学基础；务必查当年招生目录",
+    "difficulty": 5,
+    "why": "史玉升团队；陶瓷、聚合物、金属增材与 4D 打印布局完整",
+    "source": "http://matproc.hust.edu.cn/info/1712/1940.htm",
+    "last_verified": "2026-10-20",
+    "official_url": "https://www.hust.edu.cn/",
+    "grad_url": "http://gszs.hust.edu.cn/",
+    "strength": 5
+  },
+  {
+    "id": "hit-welding",
+    "name": "哈尔滨工业大学",
+    "unit": "材料结构精密焊接与连接全国重点实验室",
+    "city": "哈尔滨",
+    "region": "东北",
+    "tracks": [
+      "process"
+    ],
+    "directions": [
+      "焊接",
+      "连接",
+      "航天",
+      "航空",
+      "核电"
+    ],
+    "math_hint": "以材料科学与工程当年目录为准",
+    "exam_note": "常见数学二 + 材料科学基础；务必查当年招生目录",
+    "difficulty": 5,
+    "why": "中国焊接的发源地；每年 200+ 硕士、50+ 博士，航天/航发/核电需求强",
+    "source": "https://mse.hit.edu.cn/2023/0508/c16913a305819/page.htm",
+    "last_verified": "2026-10-20",
+    "official_url": "https://www.hit.edu.cn/",
+    "grad_url": "http://yzb.hit.edu.cn/",
+    "strength": 5
+  },
+  {
+    "id": "sjtu-material",
+    "name": "上海交通大学",
+    "unit": "材料科学与工程学院（高端新材料智能制造方向）",
+    "city": "上海",
+    "region": "长三角",
+    "tracks": [
+      "process",
+      "hybrid"
+    ],
+    "directions": [
+      "材料加工",
+      "高端新材料智能制造",
+      "轻合金",
+      "ICME"
+    ],
+    "math_hint": "以材料科学与工程当年目录为准",
+    "exam_note": "常见数学二 + 材料科学基础；务必查当年招生目录",
+    "difficulty": 5,
+    "why": "孙宝德团队；高端新材料智能制造与集成计算材料工程方向",
+    "source": "https://doi.org/10.15302/j-sscae-2023.03.014",
+    "source_name": "上海交通大学（方向来源：中国工程科学）",
+    "last_verified": "2026-10-20",
+    "official_url": "https://www.sjtu.edu.cn/",
+    "grad_url": "https://yzb.sjtu.edu.cn/",
+    "strength": 5
+  },
+  {
+    "id": "ustb-surface",
+    "name": "北京科技大学",
+    "unit": "表面科学与工程研究室 / 腐蚀与防护中心",
+    "city": "北京",
+    "region": "北京",
+    "tracks": [
+      "process",
+      "hybrid"
+    ],
+    "directions": [
+      "表面工程",
+      "残余应力",
+      "功能涂层",
+      "耐磨耐蚀"
+    ],
+    "math_hint": "以材料科学与工程当年目录为准",
+    "exam_note": "常见数学二 + 材料科学基础；务必查当年招生目录",
+    "difficulty": 4,
+    "why": "表面科学与工程研究室；残余应力、功能涂层、复杂环境服役损伤",
+    "source": "https://adma.ustb.edu.cn/kytd/fskzxtgc/4e9dc5fef5df42119250d422cfe65f02.htm",
+    "last_verified": "2026-10-20",
+    "official_url": "https://www.ustb.edu.cn/",
+    "grad_url": "https://yjsy.ustb.edu.cn/",
+    "strength": 5
+  },
+  {
+    "id": "imr-surface",
+    "name": "中国科学院金属研究所",
+    "unit": "材料表面工程研究部",
+    "city": "沈阳",
+    "region": "东北",
+    "tracks": [
+      "process",
+      "physics"
+    ],
+    "directions": [
+      "表面工程",
+      "涂层",
+      "表面纳米化",
+      "耐磨耐蚀"
+    ],
+    "math_hint": "以材料科学与工程当年目录为准",
+    "exam_note": "常见数学二 + 材料科学基础/物理化学；以当年目录为准",
+    "difficulty": 5,
+    "why": "材料表面工程研究部，科研院所路线，适合想做深机理与涂层的人",
+    "source": "http://imr.cas.cn/jgsz/synl/202604/t20260410_8183645.html",
+    "last_verified": "2026-10-20",
+    "official_url": "http://www.imr.cas.cn/",
+    "grad_url": "http://www.imr.cas.cn/yjszs/jxtzgg_yjszs/",
+    "strength": 5
+  },
+  {
+    "id": "nimte-coating",
+    "name": "中国科学院宁波材料技术与工程研究所",
+    "unit": "海洋关键材料全国重点实验室",
+    "city": "宁波",
+    "region": "长三角",
+    "tracks": [
+      "process",
+      "hybrid"
+    ],
+    "directions": [
+      "极端环境防护涂层",
+      "表界面",
+      "海洋材料",
+      "耐磨耐蚀"
+    ],
+    "math_hint": "以材料科学与工程当年目录为准",
+    "exam_note": "常见数学二 + 材料科学基础/物理化学；以当年目录为准",
+    "difficulty": 4,
+    "why": "蒲吉斌团队；极端环境功能防护涂层与表界面行为，长三角区位好",
+    "source": "https://pujibin.nimte.ac.cn/leader.html",
+    "last_verified": "2026-10-20",
+    "official_url": "https://www.nimte.ac.cn/",
+    "grad_url": "https://ncmte.nimte.ac.cn/enroll.html",
+    "strength": 5
+  },
+  {
+    "id": "zjut-laser",
+    "name": "浙江工业大学",
+    "unit": "激光先进制造研究院",
+    "city": "杭州",
+    "region": "长三角",
+    "tracks": [
+      "process"
+    ],
+    "directions": [
+      "激光表面工程",
+      "激光加工",
+      "再制造"
+    ],
+    "math_hint": "以材料/机械当年目录为准",
+    "exam_note": "常见数学二 + 材料科学基础/机械设计；以当年目录为准",
+    "difficulty": 3,
+    "why": "姚建华团队；激光表面工程与再制造，考研难度相对友好",
+    "source": "http://www.laser.zjut.edu.cn/",
+    "last_verified": "2026-10-20",
+    "official_url": "https://www.zjut.edu.cn/",
+    "grad_url": "http://yjs.zjut.edu.cn/",
+    "strength": 3
+  },
+  {
+    "id": "ujs-materials",
+    "name": "江苏大学",
+    "unit": "材料科学与工程学院",
+    "city": "镇江",
+    "region": "长三角",
+    "tracks": [
+      "process"
+    ],
+    "directions": [
+      "材料加工",
+      "激光加工",
+      "表面工程",
+      "复合材料"
+    ],
+    "math_hint": "以材料科学与工程当年目录为准",
+    "exam_note": "常见数学二 + 材料科学基础；以当年目录为准",
+    "difficulty": 3,
+    "why": "长三角工科性价比选项，材料加工与激光方向有积累",
+    "source": "https://yjsy.ujs.edu.cn/",
+    "last_verified": "2026-10-20",
+    "official_url": "https://www.ujs.edu.cn/",
+    "grad_url": "https://yjsy.ujs.edu.cn/",
+    "strength": 3
+  },
+  {
+    "id": "nuaa-materials",
+    "name": "南京航空航天大学",
+    "unit": "材料科学与技术学院",
+    "city": "南京",
+    "region": "长三角",
+    "tracks": [
+      "process",
+      "hybrid"
+    ],
+    "directions": [
+      "焊接",
+      "增材制造",
+      "复合材料",
+      "航空材料"
+    ],
+    "math_hint": "以材料科学与工程当年目录为准",
+    "exam_note": "常见数学二 + 材料科学基础；以当年目录为准",
+    "difficulty": 4,
+    "why": "航空航天材料与连接/增材方向，南京区位，军工合作多",
+    "source": "https://cailiao.nuaa.edu.cn/",
+    "last_verified": "2026-10-20",
+    "official_url": "https://www.nuaa.edu.cn/",
+    "grad_url": "http://yzb.nuaa.edu.cn/",
+    "strength": 4
+  },
+  {
+    "id": "njust-materials",
+    "name": "南京理工大学",
+    "unit": "材料科学与工程学院",
+    "city": "南京",
+    "region": "长三角",
+    "tracks": [
+      "process",
+      "hybrid"
+    ],
+    "directions": [
+      "材料加工",
+      "表面工程",
+      "含能材料",
+      "复合材料"
+    ],
+    "math_hint": "以材料科学与工程当年目录为准",
+    "exam_note": "常见数学二 + 材料科学基础；以当年目录为准",
+    "difficulty": 4,
+    "why": "军工背景，材料加工与表面方向就业稳定",
+    "source": "https://smse.njust.edu.cn/",
+    "last_verified": "2026-10-20",
+    "official_url": "https://www.njust.edu.cn/",
+    "grad_url": "https://yjszs.njust.edu.cn/",
+    "strength": 3
+  },
+  {
+    "id": "ysu-materials",
+    "name": "燕山大学",
+    "unit": "材料科学与工程学院",
+    "city": "秦皇岛",
+    "region": "其他",
+    "tracks": [
+      "process"
+    ],
+    "directions": [
+      "材料加工",
+      "亚稳材料",
+      "成形",
+      "重型机械"
+    ],
+    "math_hint": "以材料科学与工程当年目录为准",
+    "exam_note": "常见数学二 + 材料科学基础；以当年目录为准",
+    "difficulty": 3,
+    "why": "材料加工传统强校，重型机械背景，考研性价比高",
+    "source": "https://mse.ysu.edu.cn/",
+    "last_verified": "2026-10-20",
+    "official_url": "https://www.ysu.edu.cn/",
+    "grad_url": "https://yjsy.ysu.edu.cn/",
+    "strength": 3
+  },
+  {
+    "id": "ahut-surface",
+    "name": "安徽工业大学",
+    "unit": "先进金属材料绿色制备与表面技术教育部重点实验室",
+    "city": "马鞍山",
+    "region": "长三角",
+    "tracks": [
+      "process"
+    ],
+    "directions": [
+      "表面技术",
+      "金属材料",
+      "绿色制备",
+      "耐磨"
+    ],
+    "math_hint": "以材料科学与工程当年目录为准",
+    "exam_note": "常见数学二 + 材料科学基础；以当年目录为准",
+    "difficulty": 2,
+    "why": "表面技术教育部重点实验室，长三角保底/调剂选项",
+    "source": "https://lszbybmjs.ahut.edu.cn/yjfx1/fss.htm",
+    "last_verified": "2026-10-20",
+    "official_url": "https://www.ahut.edu.cn/",
+    "grad_url": "https://yjsy.ahut.edu.cn/",
+    "strength": 2
+  },
+  {
+    "id": "cumt-materials",
+    "name": "中国矿业大学",
+    "unit": "材料与物理学院",
+    "city": "徐州",
+    "region": "长三角",
+    "tracks": [
+      "process",
+      "hybrid"
+    ],
+    "directions": [
+      "材料加工",
+      "耐磨材料",
+      "表面工程",
+      "矿山装备",
+      "新能源材料"
+    ],
+    "math_hint": "以材料科学与工程当年目录为准",
+    "exam_note": "常见数学二 + 材料科学基础；以当年目录为准",
+    "difficulty": 2,
+    "why": "矿大本校保底；材料与物理学院同时覆盖材料与物理，适合低成本试错",
+    "source": "https://epaper.gmw.cn/gmrb/html/2025-09/25/nw.D110000gmrb_20250925_7-08.htm",
+    "last_verified": "2026-10-20",
+    "home_school": "中国矿业大学",
+    "official_url": "https://www.cumt.edu.cn/",
+    "grad_url": "https://yz.cumt.edu.cn/",
+    "strength": 2
+  },
+  {
+    "id": "zju-silicon",
+    "name": "浙江大学",
+    "unit": "硅及先进半导体材料全国重点实验室",
+    "city": "杭州",
+    "region": "长三角",
+    "tracks": [
+      "physics",
+      "hybrid"
+    ],
+    "directions": [
+      "硅材料",
+      "半导体材料",
+      "晶体生长",
+      "器件"
+    ],
+    "math_hint": "分专业而定，材料学院常见数学二",
+    "exam_note": "材料学院常见数学二 + 材料科学基础；微电子方向可能数学一；以当年目录为准",
+    "difficulty": 5,
+    "why": "1985 年建设，4 位院士领衔；硅与先进半导体材料国家队",
+    "source": "http://silab.zju.edu.cn/15263/list.htm",
+    "last_verified": "2026-10-20",
+    "official_url": "https://www.zju.edu.cn/",
+    "grad_url": "http://grs.zju.edu.cn/",
+    "strength": 5
+  },
+  {
+    "id": "simit-icmaterial",
+    "name": "中国科学院上海微系统与信息技术研究所",
+    "unit": "集成电路材料全国重点实验室",
+    "city": "上海",
+    "region": "长三角",
+    "tracks": [
+      "physics",
+      "hybrid"
+    ],
+    "directions": [
+      "大硅片",
+      "SOI",
+      "异质集成",
+      "工艺与封装材料"
+    ],
+    "math_hint": "分专业而定，常见数学一或数学二",
+    "exam_note": "材料物理与化学常见数学二；微电子方向常见数学一；以当年目录为准",
+    "difficulty": 5,
+    "why": "2022 年首批标杆全国重点实验室；大硅片、SOI、异质集成与封装材料",
+    "source": "https://sim.cas.cn/kybm2016/sklmic/sysgk/sysjj/",
+    "last_verified": "2026-10-20",
+    "official_url": "http://www.sim.cas.cn/",
+    "grad_url": "http://www.sim.cas.cn/yjs/",
+    "strength": 5
+  },
+  {
+    "id": "semi-cas",
+    "name": "中国科学院半导体研究所",
+    "unit": "半导体材料科学重点实验室",
+    "city": "北京",
+    "region": "北京",
+    "tracks": [
+      "physics"
+    ],
+    "directions": [
+      "半导体材料",
+      "外延",
+      "器件物理",
+      "宽禁带"
+    ],
+    "math_hint": "分专业而定，常见数学一或数学二",
+    "exam_note": "材料物理与化学常见数学二；凝聚态物理/微电子常见数学一；以当年目录为准",
+    "difficulty": 5,
+    "why": "半导体材料与器件的科研院所路线，适合读博",
+    "source": "https://mat.semi.ac.cn/semi/index.html",
+    "last_verified": "2026-10-20",
+    "official_url": "http://www.semi.cas.cn/",
+    "grad_url": "http://www.semi.cas.cn/yjsjy/",
+    "strength": 5
+  },
+  {
+    "id": "xidian-widegap",
+    "name": "西安电子科技大学",
+    "unit": "宽禁带半导体器件与集成技术全国重点实验室",
+    "city": "西安",
+    "region": "西安",
+    "tracks": [
+      "physics",
+      "hybrid"
+    ],
+    "directions": [
+      "GaN",
+      "SiC",
+      "宽禁带器件",
+      "射频",
+      "电力电子"
+    ],
+    "math_hint": "电子科学与技术常见数学一",
+    "exam_note": "常见数学一 + 半导体物理；材料方向可能数学二；以当年目录为准",
+    "difficulty": 4,
+    "why": "宽禁带半导体器件与集成技术全国重点实验室，西电在该方向平台密集",
+    "source": "https://nklwbsdit.xidian.edu.cn/kxyj/kydt/2.htm",
+    "last_verified": "2026-10-20",
+    "official_url": "https://www.xidian.edu.cn/",
+    "grad_url": "https://yz.xidian.edu.cn/",
+    "strength": 4
+  },
+  {
+    "id": "sdu-widegap",
+    "name": "山东大学",
+    "unit": "新一代半导体材料研究院",
+    "city": "济南",
+    "region": "其他",
+    "tracks": [
+      "physics",
+      "hybrid"
+    ],
+    "directions": [
+      "SiC",
+      "GaN",
+      "氧化镓",
+      "金刚石",
+      "AlN",
+      "单晶生长"
+    ],
+    "math_hint": "分专业而定，材料方向常见数学二",
+    "exam_note": "材料科学与工程常见数学二 + 材料科学基础；器件方向可能数学一；以当年目录为准",
+    "difficulty": 4,
+    "why": "SiC/GaN/氧化镓/金刚石/AlN 单晶材料布局完整，产业化对接强",
+    "source": "https://dpt.sdu.edu.cn/ptgk.htm",
+    "last_verified": "2026-10-20",
+    "official_url": "https://www.sdu.edu.cn/",
+    "grad_url": "https://www.yz.sdu.edu.cn/",
+    "strength": 5
+  },
+  {
+    "id": "uestc-thinfilm",
+    "name": "电子科技大学",
+    "unit": "电子薄膜与集成器件全国重点实验室",
+    "city": "成都",
+    "region": "成渝",
+    "tracks": [
+      "physics",
+      "hybrid"
+    ],
+    "directions": [
+      "电子薄膜",
+      "集成器件",
+      "先进封装",
+      "薄膜材料"
+    ],
+    "math_hint": "分专业而定，电子科学与技术常见数学一",
+    "exam_note": "材料方向常见数学二；电子科学与技术常见数学一 + 半导体物理；以当年目录为准",
+    "difficulty": 4,
+    "why": "薄膜+器件+先进封装全链条，成都电子信息产业集群",
+    "source": "https://etfid.uestc.edu.cn/sysgk/sysjj.htm",
+    "last_verified": "2026-10-20",
+    "official_url": "https://www.uestc.edu.cn/",
+    "grad_url": "https://yz.uestc.edu.cn/",
+    "strength": 5
+  },
+  {
+    "id": "scut-oled",
+    "name": "华南理工大学",
+    "unit": "发光材料与器件全国重点实验室",
+    "city": "广州",
+    "region": "珠三角",
+    "tracks": [
+      "physics",
+      "hybrid"
+    ],
+    "directions": [
+      "OLED",
+      "发光材料",
+      "显示",
+      "光电材料",
+      "激光光源"
+    ],
+    "math_hint": "以材料科学与工程当年目录为准",
+    "exam_note": "常见数学二 + 材料科学基础/物理化学；以当年目录为准",
+    "difficulty": 4,
+    "why": "马於光院士；光电材料设计、发光器件、显示驱动与集成",
+    "source": "https://www2.scut.edu.cn/skllmd/sysgk/list.htm",
+    "last_verified": "2026-10-20",
+    "official_url": "https://www.scut.edu.cn/",
+    "grad_url": "https://yz.scut.edu.cn/",
+    "strength": 5
+  },
+  {
+    "id": "fudan-materials",
+    "name": "复旦大学",
+    "unit": "材料科学系 / 专用集成电路与系统国家重点实验室",
+    "city": "上海",
+    "region": "长三角",
+    "tracks": [
+      "physics",
+      "hybrid"
+    ],
+    "directions": [
+      "半导体材料",
+      "器件",
+      "集成电路",
+      "薄膜"
+    ],
+    "math_hint": "分专业而定，常见数学二或数学一",
+    "exam_note": "材料科学系常见数学二 + 材料科学基础/物理化学；微电子常见数学一；以当年目录为准",
+    "difficulty": 5,
+    "why": "材料与集成电路双平台，上海产业对接强",
+    "source": "https://mse.fudan.edu.cn/",
+    "last_verified": "2026-10-20",
+    "official_url": "https://www.fudan.edu.cn/",
+    "grad_url": "https://gsao.fudan.edu.cn/",
+    "strength": 5
+  },
+  {
+    "id": "nju-solidstate",
+    "name": "南京大学",
+    "unit": "固体微结构物理国家重点实验室",
+    "city": "南京",
+    "region": "长三角",
+    "tracks": [
+      "physics"
+    ],
+    "directions": [
+      "凝聚态物理",
+      "半导体物理",
+      "薄膜",
+      "量子材料"
+    ],
+    "math_hint": "物理学常见数学一/普通物理",
+    "exam_note": "凝聚态物理常见数学一 + 普通物理/量子力学；材料方向以目录为准",
+    "difficulty": 5,
+    "why": "固体微结构物理传统强校，适合物理侧读博",
+    "source": "https://www.nju.edu.cn/",
+    "last_verified": "2026-10-20",
+    "official_url": "https://www.nju.edu.cn/",
+    "grad_url": "https://grawww.nju.edu.cn/",
+    "strength": 5
+  },
+  {
+    "id": "sinano-cas",
+    "name": "中国科学院苏州纳米技术与纳米仿生研究所",
+    "unit": "纳米器件与材料研究平台",
+    "city": "苏州",
+    "region": "长三角",
+    "tracks": [
+      "physics",
+      "hybrid"
+    ],
+    "directions": [
+      "纳米材料",
+      "半导体器件",
+      "薄膜",
+      "表征"
+    ],
+    "math_hint": "分专业而定，常见数学二",
+    "exam_note": "材料物理与化学常见数学二 + 材料科学基础/物理化学；以当年目录为准",
+    "difficulty": 4,
+    "why": "苏州纳米所，长三角科研院所，平台与产业对接好",
+    "source": "http://www.sinano.cas.cn/",
+    "last_verified": "2026-10-20",
+    "official_url": "http://www.sinano.cas.cn/",
+    "grad_url": "http://www.sinano.cas.cn/yjsjy/",
+    "strength": 3
+  },
+  {
+    "id": "njupt-electronics",
+    "name": "南京邮电大学",
+    "unit": "电子与光学工程学院 / 柔性电子学院",
+    "city": "南京",
+    "region": "长三角",
+    "tracks": [
+      "physics",
+      "hybrid"
+    ],
+    "directions": [
+      "电子材料",
+      "柔性电子",
+      "半导体器件",
+      "信息材料"
+    ],
+    "math_hint": "电子科学与技术常见数学一",
+    "exam_note": "常见数学一 + 半导体物理/电子技术；材料方向可能数学二；以当年目录为准",
+    "difficulty": 3,
+    "why": "电子信息特色强，长三角性价比选项",
+    "source": "https://www.njupt.edu.cn/",
+    "last_verified": "2026-10-20",
+    "official_url": "https://www.njupt.edu.cn/",
+    "grad_url": "http://yzb.njupt.edu.cn/",
+    "strength": 4
+  },
+  {
+    "id": "hdu-electronics",
+    "name": "杭州电子科技大学",
+    "unit": "电子信息学院",
+    "city": "杭州",
+    "region": "长三角",
+    "tracks": [
+      "physics",
+      "hybrid"
+    ],
+    "directions": [
+      "电子材料",
+      "半导体器件",
+      "集成电路",
+      "封装"
+    ],
+    "math_hint": "电子科学与技术常见数学一；材料方向可能数学二",
+    "exam_note": "电子科学与技术常见数学一 + 半导体物理/电子技术；材料方向可能数学二；以当年目录为准",
+    "difficulty": 3,
+    "why": "杭州电子信息产业区位好，考研难度相对友好",
+    "source": "https://www.hdu.edu.cn/",
+    "last_verified": "2026-10-20",
+    "official_url": "https://www.hdu.edu.cn/",
+    "grad_url": "http://yjs.hdu.edu.cn/",
+    "strength": 4
+  },
+  {
+    "id": "tsinghua-materials",
+    "name": "清华大学",
+    "unit": "材料学院",
+    "city": "北京",
+    "region": "北京",
+    "tracks": [
+      "physics",
+      "hybrid"
+    ],
+    "directions": [
+      "半导体材料",
+      "薄膜",
+      "器件",
+      "封装"
+    ],
+    "math_hint": "材料方向常见数学二；电子/集成电路方向可能数学一",
+    "exam_note": "材料学院常见数学二 + 材料科学基础/物理化学；电子方向可能数学一；以当年目录为准",
+    "difficulty": 5,
+    "why": "材料与电子/集成电路交叉平台强，适合物理侧或交叉侧冲刺",
+    "source": "https://www.tsinghua.edu.cn/",
+    "official_url": "https://www.tsinghua.edu.cn/",
+    "grad_url": "https://yz.tsinghua.edu.cn/",
+    "last_verified": "2026-10-20",
+    "strength": 5
+  },
+  {
+    "id": "pku-materials",
+    "name": "北京大学",
+    "unit": "材料科学与工程学院 / 宽禁带半导体研究中心",
+    "city": "北京",
+    "region": "北京",
+    "tracks": [
+      "physics",
+      "hybrid"
+    ],
+    "directions": [
+      "宽禁带半导体",
+      "GaN",
+      "半导体材料",
+      "器件"
+    ],
+    "math_hint": "材料方向常见数学二；物理/微电子方向可能数学一",
+    "exam_note": "材料方向常见数学二 + 材料科学基础/物理化学；物理/微电子方向可能数学一；以当年目录为准",
+    "difficulty": 5,
+    "why": "宽禁带半导体与材料物理传统强校，适合读博或器件研发",
+    "source": "https://www.pku.edu.cn/",
+    "official_url": "https://www.pku.edu.cn/",
+    "grad_url": "https://admission.pku.edu.cn/",
+    "last_verified": "2026-10-20",
+    "strength": 5
+  },
+  {
+    "id": "seu-materials",
+    "name": "东南大学",
+    "unit": "材料科学与工程学院",
+    "city": "南京",
+    "region": "长三角",
+    "tracks": [
+      "physics",
+      "hybrid"
+    ],
+    "directions": [
+      "电子材料",
+      "MEMS",
+      "封装",
+      "薄膜"
+    ],
+    "math_hint": "材料方向常见数学二；电子方向可能数学一",
+    "exam_note": "常见数学二 + 材料科学基础；电子/MEMS 方向可能数学一；以当年目录为准",
+    "difficulty": 4,
+    "why": "南京电子信息产业区位好，电子材料与 MEMS/封装方向有积累",
+    "source": "https://www.seu.edu.cn/",
+    "official_url": "https://www.seu.edu.cn/",
+    "grad_url": "https://yzb.seu.edu.cn/",
+    "last_verified": "2026-10-20",
+    "strength": 4
+  },
+  {
+    "id": "tju-materials",
+    "name": "天津大学",
+    "unit": "材料科学与工程学院",
+    "city": "天津",
+    "region": "其他",
+    "tracks": [
+      "physics",
+      "hybrid"
+    ],
+    "directions": [
+      "电子材料",
+      "薄膜",
+      "器件",
+      "新能源材料"
+    ],
+    "math_hint": "材料方向常见数学二",
+    "exam_note": "常见数学二 + 材料科学基础/物理化学；以当年目录为准",
+    "difficulty": 4,
+    "why": "材料与化工基础强，电子薄膜与器件方向可作交叉选项",
+    "source": "https://www.tju.edu.cn/",
+    "official_url": "https://www.tju.edu.cn/",
+    "grad_url": "http://yzb.tju.edu.cn/",
+    "last_verified": "2026-10-20",
+    "strength": 4
+  },
+  {
+    "id": "bupt-electronics",
+    "name": "北京邮电大学",
+    "unit": "电子工程学院 / 集成电路学院",
+    "city": "北京",
+    "region": "北京",
+    "tracks": [
+      "physics",
+      "hybrid"
+    ],
+    "directions": [
+      "电子材料",
+      "集成电路",
+      "封装",
+      "射频"
+    ],
+    "math_hint": "电子/集成电路方向常见数学一",
+    "exam_note": "常见数学一 + 半导体物理/电子技术；材料方向可能数学二；以当年目录为准",
+    "difficulty": 4,
+    "why": "信息与通信特色强，适合集成电路/封装交叉方向",
+    "source": "https://www.bupt.edu.cn/",
+    "official_url": "https://www.bupt.edu.cn/",
+    "grad_url": "https://yzb.bupt.edu.cn/",
+    "last_verified": "2026-10-20",
+    "strength": 4
+  },
+  {
+    "id": "sysu-materials",
+    "name": "中山大学",
+    "unit": "材料科学与工程学院",
+    "city": "广州",
+    "region": "珠三角",
+    "tracks": [
+      "physics",
+      "hybrid"
+    ],
+    "directions": [
+      "电子材料",
+      "光电材料",
+      "器件",
+      "能源材料"
+    ],
+    "math_hint": "材料方向常见数学二",
+    "exam_note": "常见数学二 + 材料科学基础/物理化学；以当年目录为准",
+    "difficulty": 4,
+    "why": "珠三角电子信息与显示产业区位好，材料学院方向覆盖面广",
+    "source": "https://www.sysu.edu.cn/",
+    "official_url": "https://www.sysu.edu.cn/",
+    "grad_url": "https://graduate.sysu.edu.cn/",
+    "last_verified": "2026-10-20",
+    "strength": 4
+  },
+  {
+    "id": "xmu-materials",
+    "name": "厦门大学",
+    "unit": "材料学院",
+    "city": "厦门",
+    "region": "其他",
+    "tracks": [
+      "physics",
+      "hybrid"
+    ],
+    "directions": [
+      "电子材料",
+      "光电材料",
+      "半导体",
+      "薄膜"
+    ],
+    "math_hint": "材料方向常见数学二",
+    "exam_note": "常见数学二 + 材料科学基础/物理化学；以当年目录为准",
+    "difficulty": 4,
+    "why": "光电与半导体材料方向有积累，福建电子信息产业对接",
+    "source": "https://www.xmu.edu.cn/",
+    "official_url": "https://www.xmu.edu.cn/",
+    "grad_url": "https://zs.xmu.edu.cn/",
+    "last_verified": "2026-10-20",
+    "strength": 4
+  },
+  {
+    "id": "fzu-materials",
+    "name": "福州大学",
+    "unit": "材料科学与工程学院",
+    "city": "福州",
+    "region": "其他",
+    "tracks": [
+      "physics",
+      "hybrid"
+    ],
+    "directions": [
+      "显示材料",
+      "光电材料",
+      "电子材料",
+      "新能源"
+    ],
+    "math_hint": "材料方向常见数学二",
+    "exam_note": "常见数学二 + 材料科学基础；以当年目录为准",
+    "difficulty": 3,
+    "why": "显示与光电材料方向有区域产业对接，考研难度相对友好",
+    "source": "https://www.fzu.edu.cn/",
+    "official_url": "https://www.fzu.edu.cn/",
+    "grad_url": "https://yjsy.fzu.edu.cn/",
+    "last_verified": "2026-10-20",
+    "strength": 3
+  },
+  {
+    "id": "hfut-materials",
+    "name": "合肥工业大学",
+    "unit": "材料科学与工程学院",
+    "city": "合肥",
+    "region": "长三角",
+    "tracks": [
+      "process",
+      "hybrid"
+    ],
+    "directions": [
+      "电子材料",
+      "封装",
+      "金属材料",
+      "材料加工"
+    ],
+    "math_hint": "材料方向常见数学二",
+    "exam_note": "常见数学二 + 材料科学基础；以当年目录为准",
+    "difficulty": 3,
+    "why": "合肥显示/半导体产业集群，材料加工与电子材料兼顾",
+    "source": "https://www.hfut.edu.cn/",
+    "official_url": "https://www.hfut.edu.cn/",
+    "grad_url": "http://yjszs.hfut.edu.cn/",
+    "last_verified": "2026-10-20",
+    "strength": 3
+  },
+  {
+    "id": "szu-materials",
+    "name": "深圳大学",
+    "unit": "材料学院",
+    "city": "深圳",
+    "region": "珠三角",
+    "tracks": [
+      "physics",
+      "hybrid"
+    ],
+    "directions": [
+      "电子材料",
+      "显示",
+      "新能源",
+      "薄膜"
+    ],
+    "math_hint": "材料方向常见数学二",
+    "exam_note": "常见数学二 + 材料科学基础；以当年目录为准",
+    "difficulty": 3,
+    "why": "深圳显示/电子产业集群，实习与就业区位强",
+    "source": "https://www.szu.edu.cn/",
+    "official_url": "https://www.szu.edu.cn/",
+    "grad_url": "https://yz.szu.edu.cn/",
+    "last_verified": "2026-10-20",
+    "strength": 4
+  },
+  {
+    "id": "sustech-materials",
+    "name": "南方科技大学",
+    "unit": "材料科学与工程系",
+    "city": "深圳",
+    "region": "珠三角",
+    "tracks": [
+      "physics",
+      "hybrid"
+    ],
+    "directions": [
+      "电子材料",
+      "半导体",
+      "器件",
+      "能源材料"
+    ],
+    "math_hint": "材料方向常见数学二；物理方向可能数学一",
+    "exam_note": "常见数学二 + 材料科学基础/物理化学；物理方向可能数学一；以当年目录为准",
+    "difficulty": 4,
+    "why": "深圳新型研究型大学，电子材料与器件平台较新，适合读博",
+    "source": "https://www.sustech.edu.cn/",
+    "official_url": "https://www.sustech.edu.cn/",
+    "grad_url": "https://gs.sustech.edu.cn/",
+    "last_verified": "2026-10-20",
+    "strength": 4
+  },
+  {
+    "id": "hebut-materials",
+    "name": "河北工业大学",
+    "unit": "材料科学与工程学院",
+    "city": "天津",
+    "region": "其他",
+    "tracks": [
+      "process",
+      "hybrid"
+    ],
+    "directions": [
+      "电子材料",
+      "金属材料",
+      "封装",
+      "材料加工"
+    ],
+    "math_hint": "材料方向常见数学二",
+    "exam_note": "常见数学二 + 材料科学基础；以当年目录为准",
+    "difficulty": 3,
+    "why": "京津冀区位，材料加工与电子材料兼顾，性价比选项",
+    "source": "https://www.hebut.edu.cn/",
+    "official_url": "https://www.hebut.edu.cn/",
+    "grad_url": "https://yjs.hebut.edu.cn/",
+    "last_verified": "2026-10-20",
+    "strength": 3
+  },
+  {
+    "id": "cust-materials",
+    "name": "长春理工大学",
+    "unit": "材料科学与工程学院",
+    "city": "长春",
+    "region": "东北",
+    "tracks": [
+      "physics",
+      "hybrid"
+    ],
+    "directions": [
+      "光电材料",
+      "半导体",
+      "显示",
+      "薄膜"
+    ],
+    "math_hint": "材料方向常见数学二",
+    "exam_note": "常见数学二 + 材料科学基础；以当年目录为准",
+    "difficulty": 3,
+    "why": "光电特色强，适合显示/光电材料方向的性价比选择",
+    "source": "https://www.cust.edu.cn/",
+    "official_url": "https://www.cust.edu.cn/",
+    "grad_url": "http://yjs.cust.edu.cn/",
+    "last_verified": "2026-10-20",
+    "strength": 3
+  },
+  {
+    "id": "ustc-materials",
+    "name": "中国科学技术大学",
+    "unit": "材料科学与工程系 / 微尺度物质科学国家研究中心",
+    "city": "合肥",
+    "region": "长三角",
+    "tracks": [
+      "physics"
+    ],
+    "directions": [
+      "半导体",
+      "量子材料",
+      "器件",
+      "薄膜"
+    ],
+    "math_hint": "物理/材料方向常见数学一或数学二",
+    "exam_note": "物理方向常见数学一 + 普通物理/量子力学；材料方向以当年目录为准",
+    "difficulty": 5,
+    "why": "物理与量子材料强校，适合读博和器件物理方向",
+    "source": "https://www.ustc.edu.cn/",
+    "official_url": "https://www.ustc.edu.cn/",
+    "grad_url": "https://yz.ustc.edu.cn/",
+    "last_verified": "2026-10-20",
+    "strength": 5
+  },
+  {
+    "id": "ime-cas",
+    "name": "中国科学院微电子研究所",
+    "unit": "集成电路先导工艺研发平台",
+    "city": "北京",
+    "region": "北京",
+    "tracks": [
+      "physics",
+      "hybrid"
+    ],
+    "directions": [
+      "集成电路工艺",
+      "器件",
+      "封装",
+      "微电子"
+    ],
+    "math_hint": "微电子/集成电路方向常见数学一",
+    "exam_note": "常见数学一 + 半导体物理/电子技术；以当年目录为准",
+    "difficulty": 5,
+    "why": "集成电路先导工艺国家队，适合工艺整合/器件方向",
+    "source": "http://www.ime.cas.cn/",
+    "official_url": "https://www.ime.ac.cn/",
+    "grad_url": "https://www.ime.ac.cn/kjrh/ssszs/",
+    "last_verified": "2026-10-20",
+    "strength": 5
+  },
+  {
+    "id": "shu-materials",
+    "name": "上海大学",
+    "unit": "材料科学与工程学院",
+    "city": "上海",
+    "region": "长三角",
+    "tracks": [
+      "process",
+      "hybrid"
+    ],
+    "directions": [
+      "电子材料",
+      "金属材料",
+      "封装",
+      "材料加工"
+    ],
+    "math_hint": "材料方向常见数学二",
+    "exam_note": "常见数学二 + 材料科学基础；以当年目录为准",
+    "difficulty": 3,
+    "why": "上海区位，材料加工与电子材料兼顾，性价比选项",
+    "source": "https://www.shu.edu.cn/",
+    "official_url": "https://www.shu.edu.cn/",
+    "grad_url": "https://yjszs.shu.edu.cn/",
+    "last_verified": "2026-10-20",
+    "strength": 3
+  },
+  {
+    "id": "suda-materials",
+    "name": "苏州大学",
+    "unit": "材料与化学化工学部",
+    "city": "苏州",
+    "region": "长三角",
+    "tracks": [
+      "physics",
+      "hybrid"
+    ],
+    "directions": [
+      "功能材料",
+      "光电材料",
+      "纳米材料",
+      "电子材料"
+    ],
+    "math_hint": "材料/化学方向常见数学二",
+    "exam_note": "常见数学二 + 材料科学基础/物理化学；以当年目录为准",
+    "difficulty": 3,
+    "why": "苏州纳米/电子产业集群，功能材料与光电方向有积累",
+    "source": "https://www.suda.edu.cn/",
+    "official_url": "https://www.suda.edu.cn/",
+    "grad_url": "http://yjs.suda.edu.cn/",
+    "last_verified": "2026-10-20",
+    "strength": 4
+  },
+  {
+    "id": "zzu-materials",
+    "name": "郑州大学",
+    "unit": "材料科学与工程学院",
+    "city": "郑州",
+    "region": "其他",
+    "tracks": [
+      "process",
+      "hybrid"
+    ],
+    "directions": [
+      "材料加工",
+      "电子材料",
+      "封装",
+      "金属材料"
+    ],
+    "math_hint": "材料方向常见数学二",
+    "exam_note": "常见数学二 + 材料科学基础；以当年目录为准",
+    "difficulty": 3,
+    "why": "中原地区材料加工与电子材料兼顾，性价比选项",
+    "source": "https://www.zzu.edu.cn/",
+    "official_url": "https://www.zzu.edu.cn/",
+    "grad_url": "http://gs.zzu.edu.cn/",
+    "last_verified": "2026-10-20",
+    "strength": 3
+  },
+  {
+    "id": "whut-materials",
+    "name": "武汉理工大学",
+    "unit": "材料科学与工程学院",
+    "city": "武汉",
+    "region": "华中",
+    "tracks": [
+      "process",
+      "hybrid"
+    ],
+    "directions": [
+      "材料加工",
+      "电子材料",
+      "复合材料",
+      "新能源"
+    ],
+    "math_hint": "材料方向常见数学二",
+    "exam_note": "常见数学二 + 材料科学基础；以当年目录为准",
+    "difficulty": 3,
+    "why": "材料学科规模大，武汉光电子/半导体产业集群",
+    "source": "https://www.whut.edu.cn/",
+    "official_url": "https://www.whut.edu.cn/",
+    "grad_url": "http://gd.whut.edu.cn/zs/",
+    "last_verified": "2026-10-20",
+    "strength": 3
+  },
+  {
+    "id": "ncu-materials",
+    "name": "南昌大学",
+    "unit": "材料科学与工程学院",
+    "city": "南昌",
+    "region": "其他",
+    "tracks": [
+      "process",
+      "hybrid"
+    ],
+    "directions": [
+      "材料加工",
+      "电子材料",
+      "新能源",
+      "金属材料"
+    ],
+    "math_hint": "材料方向常见数学二",
+    "exam_note": "常见数学二 + 材料科学基础；以当年目录为准",
+    "difficulty": 3,
+    "why": "南昌 LED/电子信息产业对接，材料加工与电子材料兼顾",
+    "source": "https://www.ncu.edu.cn/",
+    "official_url": "https://www.ncu.edu.cn/",
+    "grad_url": "http://yjsy.ncu.edu.cn/",
+    "last_verified": "2026-10-20",
+    "strength": 3
+  }
+]

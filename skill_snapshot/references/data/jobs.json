@@ -1,0 +1,542 @@
+[
+  {
+    "id": "landspace-am",
+    "company": "蓝箭航天",
+    "role": "金属增材制造工艺工程师",
+    "city": "湖州",
+    "region": "长三角",
+    "track": "process",
+    "degree": "硕士",
+    "experience": "3年以上",
+    "salary": "1.5–2.5万×14薪",
+    "skills": [
+      "粉末选型",
+      "打印参数",
+      "应力控制",
+      "热处理",
+      "表面处理",
+      "设备调试"
+    ],
+    "source": "https://www.quanzhi.com/job/6a420159c81f53a831e15cc5",
+    "last_verified": "2026-10-20",
+    "note": "商业航天增材制造岗位，要求硕士且有经验"
+  },
+  {
+    "id": "senfeng-laser-clad",
+    "company": "济南森峰激光科技股份有限公司",
+    "role": "激光熔覆工艺工程师",
+    "city": "济南",
+    "region": "其他",
+    "track": "process",
+    "degree": "本科",
+    "experience": "经验不限",
+    "salary": "未公开",
+    "skills": [
+      "激光熔覆",
+      "工艺方案",
+      "参数优化",
+      "裂纹/气孔缺陷",
+      "材料性能分析"
+    ],
+    "source": "https://www.zhaopin.com/jobdetail/CC197044910J41021207104.htm",
+    "last_verified": "2026-10-20",
+    "note": "本科入口岗，机器人专业应届可带薪学习"
+  },
+  {
+    "id": "liujing-laser-clad",
+    "company": "上海六晶科技股份有限公司（苏州）",
+    "role": "激光熔覆工艺工程师",
+    "city": "苏州",
+    "region": "长三角",
+    "track": "process",
+    "degree": "本科",
+    "experience": "3年以上",
+    "salary": "未公开",
+    "skills": [
+      "熔覆材料选型",
+      "参数调试",
+      "SOP",
+      "结合强度",
+      "自动化升级"
+    ],
+    "source": "https://www.liepin.com/job/1985147539.shtml",
+    "last_verified": "2026-10-20",
+    "note": "医疗设备金属件表面强化与修复"
+  },
+  {
+    "id": "rongchuang-laser-clad",
+    "company": "熔创金属表面科技（常州）有限公司",
+    "role": "激光熔覆工艺/材料工程师",
+    "city": "常州",
+    "region": "长三角",
+    "track": "process",
+    "degree": "重点本科或研究生",
+    "experience": "未明",
+    "salary": "未公开",
+    "skills": [
+      "激光器光路",
+      "参数配置",
+      "ABB机器人",
+      "工艺规程",
+      "专利撰写"
+    ],
+    "source": "https://www.liepin.com/job/1950186791.shtml",
+    "last_verified": "2026-10-20",
+    "note": "偏项目开发与装备集成"
+  },
+  {
+    "id": "haitian-laser-clad",
+    "company": "海天集团（海天光机）",
+    "role": "激光熔覆工艺研发",
+    "city": "宁波",
+    "region": "长三角",
+    "track": "process",
+    "degree": "未明",
+    "experience": "未明",
+    "salary": "未公开",
+    "skills": [
+      "粉末选型",
+      "工艺参数",
+      "缺陷处理",
+      "工艺数据库",
+      "客户打样"
+    ],
+    "source": "https://www.liepin.com/job/1985467009.shtml",
+    "last_verified": "2026-10-20",
+    "note": "设备厂商的工艺研发岗，偏客户应用"
+  },
+  {
+    "id": "yibai-thermal-spray",
+    "company": "江苏壹佰精工机械有限公司",
+    "role": "热喷涂工艺工程师",
+    "city": "盐城",
+    "region": "长三角",
+    "track": "process",
+    "degree": "金属材料/粉末冶金",
+    "experience": "1年以上",
+    "salary": "未公开",
+    "skills": [
+      "大气等离子喷涂",
+      "超音速喷涂",
+      "电弧喷涂",
+      "涂层检测",
+      "残余应力"
+    ],
+    "source": "https://www.liepin.com/job/1954340187.shtml",
+    "last_verified": "2026-10-20",
+    "note": "传统表面工程岗，强调涂层设计与检测"
+  },
+  {
+    "id": "changdian-packaging",
+    "company": "长电科技（江阴）",
+    "role": "封装工艺工程师",
+    "city": "江阴",
+    "region": "长三角",
+    "track": "hybrid",
+    "degree": "本科/应届研究生",
+    "experience": "应届或本科2年以上",
+    "salary": "未公开",
+    "skills": [
+      "晶圆级封装",
+      "Litho/Photo",
+      "PVD",
+      "Etch",
+      "CVD",
+      "SEM/EDX"
+    ],
+    "source": "https://eee.hytc.edu.cn/info/1033/54431.htm",
+    "last_verified": "2026-10-20",
+    "note": "招30人；材料/微电子/应用化学优先"
+  },
+  {
+    "id": "smic-pie",
+    "company": "中芯国际",
+    "role": "工艺整合工程师",
+    "city": "深圳坪山",
+    "region": "珠三角",
+    "track": "hybrid",
+    "degree": "硕士",
+    "experience": "应届",
+    "salary": "1.05–1.5万/月",
+    "skills": [
+      "材料",
+      "物理",
+      "化学",
+      "微电子",
+      "工艺整合"
+    ],
+    "source": "https://jy.xmu.edu.cn/campus/view/id/998893",
+    "last_verified": "2026-10-20",
+    "note": "2026届校招；需求专业含材料物理与化学、材料学、微电子等"
+  },
+  {
+    "id": "boe-oled",
+    "company": "京东方（成都京东方光电）",
+    "role": "OLED研发",
+    "city": "深圳",
+    "region": "珠三角",
+    "track": "physics",
+    "degree": "硕士",
+    "experience": "应届",
+    "salary": "15.6万/年",
+    "skills": [
+      "材料科学与工程",
+      "电子科学与技术",
+      "物理学"
+    ],
+    "source": "https://campus.niuqizp.com/job-vms5NCtaz.html",
+    "last_verified": "2026-10-20",
+    "note": "2027校招，招5人；薪资为页面示例，非平均值"
+  },
+  {
+    "id": "dinglong-photoresist",
+    "company": "鼎龙股份",
+    "role": "光刻胶材料研发工程师",
+    "city": "武汉",
+    "region": "华中",
+    "track": "physics",
+    "degree": "硕士",
+    "experience": "未明",
+    "salary": "未公开",
+    "skills": [
+      "有机化学",
+      "高分子材料",
+      "配方设计",
+      "结构表征",
+      "中试验证"
+    ],
+    "source": "https://www.liepin.com/job/1984972193.shtml",
+    "last_verified": "2026-10-20",
+    "note": "偏有机/高分子合成，材料化学背景比纯物理更对口"
+  },
+  {
+    "id": "anji-cmp",
+    "company": "安集科技",
+    "role": "CMP工艺工程师",
+    "city": "上海",
+    "region": "长三角",
+    "track": "hybrid",
+    "degree": "未明",
+    "experience": "未明",
+    "salary": "未公开",
+    "skills": [
+      "CMP",
+      "抛光液",
+      "半导体工艺",
+      "材料表征"
+    ],
+    "source": "https://www.liepin.com/job/1984271221.shtml",
+    "last_verified": "2026-10-20",
+    "note": "页面已暂停招聘；作为岗位族样本保留"
+  },
+  {
+    "id": "tianyue-sic",
+    "company": "天岳先进",
+    "role": "SiC衬底技术岗（专业技术序列）",
+    "city": "上海/济南/济宁",
+    "region": "长三角",
+    "track": "physics",
+    "degree": "材料/物理/化学",
+    "experience": "校招",
+    "salary": "未公开",
+    "skills": [
+      "SiC衬底",
+      "晶体生长",
+      "8英寸",
+      "12英寸",
+      "缺陷控制"
+    ],
+    "source": "https://jobs.niuqizp.com/schedule-7lsrNNZNa.html",
+    "last_verified": "2026-10-20",
+    "note": "2027校招；8英寸规模化交付、12英寸首发"
+  },
+  {
+    "id": "grikin-target",
+    "company": "有研亿金新材料（山东）有限公司",
+    "role": "产品研发工程师（靶材）",
+    "city": "山东",
+    "region": "其他",
+    "track": "physics",
+    "degree": "未明",
+    "experience": "未明",
+    "salary": "未公开",
+    "skills": [
+      "溅射靶材",
+      "粉末冶金",
+      "材料研发"
+    ],
+    "source": "https://career.hebut.edu.cn/home/correcruit/content/id/69318.html",
+    "last_verified": "2026-10-20",
+    "note": "靶材方向就业出口样本"
+  },
+  {
+    "id": "tongfu-packaging",
+    "company": "通富微电",
+    "role": "封装工艺/研发工程师",
+    "city": "南通",
+    "region": "长三角",
+    "track": "hybrid",
+    "degree": "未明",
+    "experience": "校招",
+    "salary": "未公开",
+    "skills": [
+      "先进封装",
+      "FCBGA",
+      "Chiplet",
+      "可靠性"
+    ],
+    "source": "https://www.quanzhi.com/notice/68f0978a7f2732863ffef311",
+    "last_verified": "2026-10-20",
+    "note": "招聘公告级样本，具体岗位以官网为准"
+  },
+  {
+    "id": "huarun-process",
+    "company": "华润微电子",
+    "role": "工艺工程师（应届）",
+    "city": "南昌",
+    "region": "其他",
+    "track": "hybrid",
+    "degree": "硕士",
+    "experience": "应届",
+    "salary": "未公开",
+    "skills": [
+      "工艺监控",
+      "异常处置",
+      "SOP",
+      "新机台调试",
+      "数据分析"
+    ],
+    "source": "https://www.liepin.com/job/1985635437.shtml",
+    "last_verified": "2026-10-20",
+    "note": "微电子、物理、电子科学、材料、化学等专业"
+  },
+  {
+    "id": "sanan-process",
+    "company": "天津三安光电",
+    "role": "工艺工程师（研究生学历）",
+    "city": "天津",
+    "region": "其他",
+    "track": "hybrid",
+    "degree": "硕士",
+    "experience": "未明",
+    "salary": "未公开",
+    "skills": [
+      "LED",
+      "化合物半导体",
+      "工艺",
+      "良率"
+    ],
+    "source": "https://www.zhaopin.com/jobdetail/CC218369513J90250410000.htm",
+    "last_verified": "2026-10-20",
+    "note": "三安光电化合物半导体/LED 工艺岗样本"
+  },
+  {
+    "id": "shilan-process",
+    "company": "杭州士兰集成电路",
+    "role": "工艺工程师",
+    "city": "杭州",
+    "region": "长三角",
+    "track": "hybrid",
+    "degree": "本科/硕士",
+    "experience": "应届/未明",
+    "salary": "未公开",
+    "skills": [
+      "晶圆工艺",
+      "器件",
+      "良率",
+      "工艺整合"
+    ],
+    "source": "https://career.hebut.edu.cn/home/correcruit/content/id/68171.html",
+    "last_verified": "2026-10-20",
+    "note": "岗位细节以原页面为准"
+  },
+  {
+    "id": "visionox-rd",
+    "company": "维信诺",
+    "role": "研发设计方向（OLED）",
+    "city": "合肥/广州/昆山/固安",
+    "region": "长三角",
+    "track": "physics",
+    "degree": "硕士",
+    "experience": "应届",
+    "salary": "未公开",
+    "skills": [
+      "OLED",
+      "有机材料",
+      "光学",
+      "工艺设计",
+      "器件"
+    ],
+    "source": "https://jyzd.chnu.edu.cn/xsfw/gwxx/content_136014",
+    "last_verified": "2026-10-20",
+    "note": "2026 届校招；研发设计方向要求硕士及以上"
+  },
+  {
+    "id": "tcl-csot-display",
+    "company": "TCL华星光电",
+    "role": "2026 校招（显示技术/工艺方向）",
+    "city": "深圳/武汉/惠州/苏州/广州",
+    "region": "珠三角",
+    "track": "hybrid",
+    "degree": "本科/硕士",
+    "experience": "应届",
+    "salary": "未公开",
+    "skills": [
+      "显示",
+      "材料",
+      "工艺",
+      "Mini LED",
+      "Micro LED",
+      "印刷 OLED"
+    ],
+    "source": "https://www.job.sjtu.edu.cn/career/zpxx/view/zpxx/172357393030713344",
+    "last_verified": "2026-10-20",
+    "note": "岗位与学历要求以校招简章为准"
+  },
+  {
+    "id": "huatian-packaging",
+    "company": "华天科技（南京）",
+    "role": "封装工艺/研发",
+    "city": "南京",
+    "region": "长三角",
+    "track": "hybrid",
+    "degree": "本科/硕士",
+    "experience": "应届",
+    "salary": "未公开",
+    "skills": [
+      "封装",
+      "测试",
+      "可靠性",
+      "SiP",
+      "TSV"
+    ],
+    "source": "https://www.wenda.edu.cn/jy/display_2223.html",
+    "last_verified": "2026-10-20",
+    "note": "2026 届高校生招聘简章"
+  },
+  {
+    "id": "changxin-process",
+    "company": "长鑫存储",
+    "role": "工艺工程研发",
+    "city": "合肥",
+    "region": "长三角",
+    "track": "hybrid",
+    "degree": "硕士",
+    "experience": "应届",
+    "salary": "未公开（第三方估算 1.5–2.5 万/月）",
+    "skills": [
+      "光刻",
+      "刻蚀",
+      "薄膜",
+      "CMP",
+      "良率",
+      "工艺整合"
+    ],
+    "source": "https://watchjobs.net/zh/explore/job/c575-dcde6859e0004449/%E5%B7%A5%E8%89%BA%E5%B7%A5%E7%A8%8B%E7%A0%94%E5%8F%91-J20782-%E9%95%BF%E9%91%AB%E5%AD%98%E5%82%A8",
+    "last_verified": "2026-10-20",
+    "note": "第三方招聘页面，薪资为 AI 估算，不是官方数据"
+  },
+  {
+    "id": "huahong-pie",
+    "company": "华虹半导体（无锡）",
+    "role": "工艺整合工程师",
+    "city": "无锡",
+    "region": "长三角",
+    "track": "hybrid",
+    "degree": "硕士",
+    "experience": "应届",
+    "salary": "未公开（第三方估算 1.5–2.5 万/月）",
+    "skills": [
+      "工艺整合",
+      "TCAD",
+      "良率",
+      "集成电路制造"
+    ],
+    "source": "https://watchjobs.net/zh/explore/job/c572-6985/Y27-%E5%B7%A5%E8%89%BA%E6%95%B4%E5%90%88%E5%B7%A5%E7%A8%8B%E5%B8%88-%E5%8D%8E%E8%99%B9%E5%8D%8A%E5%AF%BC%E4%BD%93",
+    "last_verified": "2026-10-20",
+    "note": "第三方招聘页面，薪资为 AI 估算，不是官方数据"
+  },
+  {
+    "id": "jiangfeng-process",
+    "company": "江丰电子",
+    "role": "2026 届工艺研发类",
+    "city": "宁波余姚",
+    "region": "长三角",
+    "track": "hybrid",
+    "degree": "硕士",
+    "experience": "应届",
+    "salary": "未公开",
+    "skills": [
+      "靶材",
+      "工艺优化",
+      "良率",
+      "失效分析",
+      "金属材料"
+    ],
+    "source": "https://www.quanzhi.com/job/6a6448be62f6005b2b3040c5",
+    "last_verified": "2026-10-20",
+    "note": "2026 届硕士及以上；金属材料、测控等专业"
+  },
+  {
+    "id": "jiangfeng-target",
+    "company": "江丰电子",
+    "role": "靶材研发岗",
+    "city": "宁波",
+    "region": "长三角",
+    "track": "physics",
+    "degree": "本科",
+    "experience": "不限",
+    "salary": "未公开",
+    "skills": [
+      "金属靶材",
+      "陶瓷靶材",
+      "粉末冶金",
+      "工艺标准",
+      "专利"
+    ],
+    "source": "https://job.zzu.edu.cn/job/view/id/2558298",
+    "last_verified": "2026-10-20",
+    "note": "招 5 人；材料/粉末冶金/金属物理/陶瓷等专业"
+  },
+  {
+    "id": "anji-campus",
+    "company": "安集科技",
+    "role": "2025 届校招（CMP/湿电子化学品）",
+    "city": "上海",
+    "region": "长三角",
+    "track": "hybrid",
+    "degree": "硕士",
+    "experience": "应届",
+    "salary": "未公开",
+    "skills": [
+      "CMP",
+      "抛光液",
+      "湿电子化学品",
+      "电镀液",
+      "材料化学"
+    ],
+    "source": "https://www.anjimicro.com/tc/shehuizixun/77.html",
+    "last_verified": "2026-10-20",
+    "note": "研发技术人员占比高；岗位以官网为准"
+  },
+  {
+    "id": "tianke-sic",
+    "company": "北京天科合达",
+    "role": "材料工程师（SiC）",
+    "city": "北京",
+    "region": "北京",
+    "track": "physics",
+    "degree": "本科/硕士",
+    "experience": "未明",
+    "salary": "未公开",
+    "skills": [
+      "SiC 晶体",
+      "晶片加工",
+      "缺陷",
+      "材料表征"
+    ],
+    "source": "http://www.bangong.hzdx.com/jujiao/2023/0428/11554.html",
+    "last_verified": "2026-10-20",
+    "note": "2023 年招聘信息，可能已过期；仅作岗位族样本"
+  }
+]
